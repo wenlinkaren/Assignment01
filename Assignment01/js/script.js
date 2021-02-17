@@ -42,7 +42,7 @@ let city = "San Diego";  //second way
 let firstName = "Wenlin", lastName = "He", city = "San Diego"; //third way
 
 //Ex.6
-let zipCode = "My zip code is" + 92121; // create a variable, add a number and a string
+let zipCode = "My zip code is " + 92121; // create a variable, add a number and a string
 window.console.log(zipCode); // display the coerced result in the browser's console window
 
 //Ex.7
@@ -118,3 +118,4 @@ alert (firstScore > 80 || secondScore > 80 || thirdScore > 80);  // return true
 //Ex.22
 let age = 12, height = 120, weight = 40;
 alert (age <= 10 && height <= 150 && weight <= 50);   // return false
+
